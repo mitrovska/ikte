@@ -15,6 +15,7 @@ import javax.swing.border.TitledBorder;
  * @author HP
  */
 public class zadaca1 extends JApplet implements ActionListener {
+//komentar za promena
   
 
     private JPanel pnlglavna, pnl1, pnl11, pnl12, pnl12g, pnl12d, pnl2, pnl21, pnl3, pnl31;
